@@ -3,8 +3,9 @@ Harold Pomodoro Timer Notes
 * Pomodoro timer
 * harold themed
 
-
-
+* Green - not active
+* Pink - Break
+* Blue -  Studying/timer going
 
 
 

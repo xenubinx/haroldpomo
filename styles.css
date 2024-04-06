@@ -1,0 +1,12 @@
+body {
+    background-color: #9ad48f;
+}
+
+.harold {
+    display: flex;
+    justify-content: center;
+}
+.harold img {
+    width: 25%;
+    margin-top: 5%;
+}
