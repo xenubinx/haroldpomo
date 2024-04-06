@@ -1,0 +1,31 @@
+Harold Pomodoro Timer Notes
+
+* Pomodoro timer
+* harold themed
+
+
+
+
+
+
+Hex codes for HSRC:
+Green
+#9ad48f
+
+Green shade (darker)
+#7baa72
+
+Pink
+#d38e98
+
+Pink shade (darker)
+#ce717e
+
+Blue
+#929ed8
+
+Blue shade (darker)
+#666e96
+
+Harold’s sweater brown
+#c28046
